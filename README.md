@@ -1,2 +1,2 @@
-*_Тестовая<sup>?</sup> работа с <p style="color: 560319">G</p><p style="color: #310062">i</p><p style="color: #cd7f32">t</p><p style="color: #013220">H</p><p style="color: #ff00ff">u</p><p style="color: #00a86b">b</p>_*
+*_Тестовая<sup>?</sup> работа с <p style="color: #560319">G</p><p style="color: #310062">i</p><p style="color: #cd7f32">t</p><p style="color: #013220">H</p><p style="color: #ff00ff">u</p><p style="color: #00a86b">b</p>_*
 ![https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://kartinkof.club/uploads/posts/2022-03/1648368980_1-kartinkof-club-p-memi-s-kotami-bez-nadpisei-1.jpg)">
