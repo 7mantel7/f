@@ -1,2 +1,5 @@
 *_Тестовая<sup>?</sup> работа с GitHub_*
-![Мем с котиком]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fkartinkof.club%2Fjumor%2Fmemi%2F1327-memy-s-kotami-bez-nadpisej-49-foto.html&psig=AOvVaw1U7qkhVC_GW5wsVcTHukUW&ust=1694023028726000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCKjttuCFlIEDFQAAAAAdAAAAABAD](https://kartinkof.club/uploads/posts/2022-03/1648368980_1-kartinkof-club-p-memi-s-kotami-bez-nadpisei-1.jpg)https://kartinkof.club/uploads/posts/2022-03/1648368980_1-kartinkof-club-p-memi-s-kotami-bez-nadpisei-1.jpg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://kartinkof.club/uploads/posts/2022-03/1648368980_1-kartinkof-club-p-memi-s-kotami-bez-nadpisei-1.jpg)">
+  <source media="(prefers-color-scheme: light)" srcset="[https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://kartinkof.club/uploads/posts/2022-03/1648368980_1-kartinkof-club-p-memi-s-kotami-bez-nadpisei-1.jpg)">
+</picture>
