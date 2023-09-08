@@ -20,10 +20,8 @@ int main()
         else {
             int* player = new int[5];
             cout << "Ваши числа: ";
-            int l = 0;
             for (int i = 0; i < 5; i++) {
-                //player[i] = rand() % 6 + 1;
-                player[i] = l++;
+                player[i] = rand() % 6 + 1;
                 cout << player[i] << " -/- ";
             }
             cout << "\nЧисла ИИ: ";
