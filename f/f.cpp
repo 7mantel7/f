@@ -3,6 +3,7 @@
 #include <random>
 using namespace std;
 
+bool coincidence(int* list, int len);
 int* bublesort(int* list, int len);
 
 int main()
@@ -31,10 +32,10 @@ int main()
                 cout << ai[i] << " -_- ";
             }
             cout << endl;
-            if (player[0] + player[1] + player[2] + player[3] + player[4] == player[0] * 5) {
+            if (coincidence(player, 5)) {
                 cout <<"Вы выиграли!" << endl;
             }
-            else if (ai[0] + ai[1] + ai[2] + ai[3] + ai[4] == ai[0] * 5) {
+            else if (coincidence(ai, 5)) {
                 cout << "Вы проиграли!" << endl;
             }
             else {
@@ -67,6 +68,15 @@ int main()
         }
     }
 }
+bool coincidence(int* list, int len) {
+    for (int i = 0; i < len; i++) {
+        if (list[i] != list[0]) {
+            return false;
+        }
+    }
+    return true;
+}
+
 int* bublesort(int* list, int len) {
     for (int i = 0; i < len; i++) {
         for (int j = 0; j < len - 1; j++) {
